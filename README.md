@@ -10,3 +10,5 @@ Need to add **127.0.0.1 laravel.local** to` /etc/hosts` file
 [Application link](https://rabbitmq.laravel.local/#/)
 
 [RabbitMQ](https://rabbitmq.laravel.local/#/)
+
+5. Add new queue with name `default` via RabbitMQ interface
